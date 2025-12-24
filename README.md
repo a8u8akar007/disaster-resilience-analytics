@@ -10,7 +10,7 @@ This project analyzes disaster resilience across **195 countries** over **24 yea
 
 ### 1. Global Overview
 *A comprehensive map view of disaster resilience (CRI) scores across the globe.*
-![Global Overview](dashboard1_global_overview.jpg)
+![Global Overview](dashboard1_global_overview.png)
 
 ### 2. Impact Analysis
 *Analyzing the correlation between GDP, recovery time, and disaster impact.*
